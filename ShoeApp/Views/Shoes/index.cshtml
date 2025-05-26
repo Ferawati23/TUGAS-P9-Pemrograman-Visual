@@ -1,0 +1,41 @@
+﻿@model IEnumerable<ShoeApp.Models.Shoe>
+@{
+    ViewData["Title"] = "Sepatu";
+}
+
+<h2 class="mb-4">Daftar Sepatu</h2>
+
+<div class="card shadow-sm">
+    <div class="card-header d-flex justify-content-between align-items-center">
+        <span>Data Sepatu</span>
+        <a asp-action="Create" class="btn btn-primary btn-sm">Tambah Sepatu Baru</a>
+    </div>
+    <div class="card-body p-0">
+        <table class="table table-striped mb-0">
+            <thead class="table-light">
+                <tr>
+                    <th>Merek</th>
+                    <th>Model</th>
+                    <th>Harga</th>
+                    <th>Warna</th>
+                    <th style="width: 140px;">Aksi</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var shoe in Model)
+                {
+                    <tr>
+                        <td>@shoe.Brand</td>
+                        <td>@shoe.Model</td>
+                        <td>@shoe.Price.ToString("C")</td>
+                        <td>@shoe.Color</td>
+                        <td>
+                            <a asp-action="Edit" asp-route-id="@shoe.Id" class="btn btn-sm btn-warning me-1">Ubah</a>
+                            <a asp-action="Delete" asp-route-id="@shoe.Id" class="btn btn-sm btn-danger">Hapus</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
