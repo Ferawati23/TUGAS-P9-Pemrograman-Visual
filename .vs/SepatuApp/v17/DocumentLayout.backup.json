@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MyBook Hype\\source\\repos\\SepatuApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6ACACBA-422F-4827-847A-A367E1A41518}|SepatuApp\\SepatuApp.csproj|c:\\users\\mybook hype\\source\\repos\\sepatuapp\\sepatuapp\\views\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6ACACBA-422F-4827-847A-A367E1A41518}|SepatuApp\\SepatuApp.csproj|solutionrelative:sepatuapp\\views\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6ACACBA-422F-4827-847A-A367E1A41518}|SepatuApp\\SepatuApp.csproj|c:\\users\\mybook hype\\source\\repos\\sepatuapp\\sepatuapp\\views\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6ACACBA-422F-4827-847A-A367E1A41518}|SepatuApp\\SepatuApp.csproj|solutionrelative:sepatuapp\\views\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6ACACBA-422F-4827-847A-A367E1A41518}|SepatuApp\\SepatuApp.csproj|c:\\users\\mybook hype\\source\\repos\\sepatuapp\\sepatuapp\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6ACACBA-422F-4827-847A-A367E1A41518}|SepatuApp\\SepatuApp.csproj|solutionrelative:sepatuapp\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6ACACBA-422F-4827-847A-A367E1A41518}|SepatuApp\\SepatuApp.csproj|c:\\users\\mybook hype\\source\\repos\\sepatuapp\\sepatuapp\\controllers\\sepatucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6ACACBA-422F-4827-847A-A367E1A41518}|SepatuApp\\SepatuApp.csproj|solutionrelative:sepatuapp\\controllers\\sepatucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6ACACBA-422F-4827-847A-A367E1A41518}|SepatuApp\\SepatuApp.csproj|c:\\users\\mybook hype\\source\\repos\\sepatuapp\\sepatuapp\\repositories\\sepaturepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6ACACBA-422F-4827-847A-A367E1A41518}|SepatuApp\\SepatuApp.csproj|solutionrelative:sepatuapp\\repositories\\sepaturepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6ACACBA-422F-4827-847A-A367E1A41518}|SepatuApp\\SepatuApp.csproj|c:\\users\\mybook hype\\source\\repos\\sepatuapp\\sepatuapp\\models\\sepatu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6ACACBA-422F-4827-847A-A367E1A41518}|SepatuApp\\SepatuApp.csproj|solutionrelative:sepatuapp\\models\\sepatu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6ACACBA-422F-4827-847A-A367E1A41518}|SepatuApp\\SepatuApp.csproj|c:\\users\\mybook hype\\source\\repos\\sepatuapp\\sepatuapp\\views\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F6ACACBA-422F-4827-847A-A367E1A41518}|SepatuApp\\SepatuApp.csproj|solutionrelative:sepatuapp\\views\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6ACACBA-422F-4827-847A-A367E1A41518}|SepatuApp\\SepatuApp.csproj|c:\\users\\mybook hype\\source\\repos\\sepatuapp\\sepatuapp\\views\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{F6ACACBA-422F-4827-847A-A367E1A41518}|SepatuApp\\SepatuApp.csproj|solutionrelative:sepatuapp\\views\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SepatuController.cs",
+              "DocumentMoniker": "C:\\Users\\MyBook Hype\\source\\repos\\SepatuApp\\SepatuApp\\Controllers\\SepatuController.cs",
+              "RelativeDocumentMoniker": "SepatuApp\\Controllers\\SepatuController.cs",
+              "ToolTip": "C:\\Users\\MyBook Hype\\source\\repos\\SepatuApp\\SepatuApp\\Controllers\\SepatuController.cs",
+              "RelativeToolTip": "SepatuApp\\Controllers\\SepatuController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T16:11:10.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Sepatu.cs",
+              "DocumentMoniker": "C:\\Users\\MyBook Hype\\source\\repos\\SepatuApp\\SepatuApp\\Models\\Sepatu.cs",
+              "RelativeDocumentMoniker": "SepatuApp\\Models\\Sepatu.cs",
+              "ToolTip": "C:\\Users\\MyBook Hype\\source\\repos\\SepatuApp\\SepatuApp\\Models\\Sepatu.cs",
+              "RelativeToolTip": "SepatuApp\\Models\\Sepatu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T16:08:06.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\MyBook Hype\\source\\repos\\SepatuApp\\SepatuApp\\Views\\Form1.cs",
+              "RelativeDocumentMoniker": "SepatuApp\\Views\\Form1.cs",
+              "ToolTip": "C:\\Users\\MyBook Hype\\source\\repos\\SepatuApp\\SepatuApp\\Views\\Form1.cs",
+              "RelativeToolTip": "SepatuApp\\Views\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T07:47:26.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\MyBook Hype\\source\\repos\\SepatuApp\\SepatuApp\\Views\\Form1.resx",
+              "RelativeDocumentMoniker": "SepatuApp\\Views\\Form1.resx",
+              "ToolTip": "C:\\Users\\MyBook Hype\\source\\repos\\SepatuApp\\SepatuApp\\Views\\Form1.resx",
+              "RelativeToolTip": "SepatuApp\\Views\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-05-27T07:47:16.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\MyBook Hype\\source\\repos\\SepatuApp\\SepatuApp\\Views\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "SepatuApp\\Views\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\MyBook Hype\\source\\repos\\SepatuApp\\SepatuApp\\Views\\Form1.Designer.cs",
+              "RelativeToolTip": "SepatuApp\\Views\\Form1.Designer.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAuwH0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T07:47:13.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SepatuRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MyBook Hype\\source\\repos\\SepatuApp\\SepatuApp\\Repositories\\SepatuRepository.cs",
+              "RelativeDocumentMoniker": "SepatuApp\\Repositories\\SepatuRepository.cs",
+              "ToolTip": "C:\\Users\\MyBook Hype\\source\\repos\\SepatuApp\\SepatuApp\\Repositories\\SepatuRepository.cs",
+              "RelativeToolTip": "SepatuApp\\Repositories\\SepatuRepository.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAuwE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T07:46:08.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\MyBook Hype\\source\\repos\\SepatuApp\\SepatuApp\\Database.cs",
+              "RelativeDocumentMoniker": "SepatuApp\\Database.cs",
+              "ToolTip": "C:\\Users\\MyBook Hype\\source\\repos\\SepatuApp\\SepatuApp\\Database.cs",
+              "RelativeToolTip": "SepatuApp\\Database.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T06:44:40.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MyBook Hype\\source\\repos\\SepatuApp\\SepatuApp\\Views\\Form1.cs",
+              "RelativeDocumentMoniker": "SepatuApp\\Views\\Form1.cs",
+              "ToolTip": "C:\\Users\\MyBook Hype\\source\\repos\\SepatuApp\\SepatuApp\\Views\\Form1.cs [Design]",
+              "RelativeToolTip": "SepatuApp\\Views\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T07:45:56.066Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
