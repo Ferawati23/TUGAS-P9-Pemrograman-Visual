@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MyBook Hype\\source\\repos\\ShoeApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2653FD4B-4964-421C-BFBC-DDC4C5258E8B}|ShoeApp\\ShoeApp.csproj|c:\\users\\mybook hype\\source\\repos\\shoeapp\\shoeapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2653FD4B-4964-421C-BFBC-DDC4C5258E8B}|ShoeApp\\ShoeApp.csproj|solutionrelative:shoeapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2653FD4B-4964-421C-BFBC-DDC4C5258E8B}|ShoeApp\\ShoeApp.csproj|c:\\users\\mybook hype\\source\\repos\\shoeapp\\shoeapp\\views\\shoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2653FD4B-4964-421C-BFBC-DDC4C5258E8B}|ShoeApp\\ShoeApp.csproj|solutionrelative:shoeapp\\views\\shoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2653FD4B-4964-421C-BFBC-DDC4C5258E8B}|ShoeApp\\ShoeApp.csproj|c:\\users\\mybook hype\\source\\repos\\shoeapp\\shoeapp\\views\\shoes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2653FD4B-4964-421C-BFBC-DDC4C5258E8B}|ShoeApp\\ShoeApp.csproj|solutionrelative:shoeapp\\views\\shoes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2653FD4B-4964-421C-BFBC-DDC4C5258E8B}|ShoeApp\\ShoeApp.csproj|c:\\users\\mybook hype\\source\\repos\\shoeapp\\shoeapp\\views\\shoes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2653FD4B-4964-421C-BFBC-DDC4C5258E8B}|ShoeApp\\ShoeApp.csproj|solutionrelative:shoeapp\\views\\shoes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2653FD4B-4964-421C-BFBC-DDC4C5258E8B}|ShoeApp\\ShoeApp.csproj|c:\\users\\mybook hype\\source\\repos\\shoeapp\\shoeapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2653FD4B-4964-421C-BFBC-DDC4C5258E8B}|ShoeApp\\ShoeApp.csproj|solutionrelative:shoeapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2653FD4B-4964-421C-BFBC-DDC4C5258E8B}|ShoeApp\\ShoeApp.csproj|c:\\users\\mybook hype\\source\\repos\\shoeapp\\shoeapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2653FD4B-4964-421C-BFBC-DDC4C5258E8B}|ShoeApp\\ShoeApp.csproj|solutionrelative:shoeapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2653FD4B-4964-421C-BFBC-DDC4C5258E8B}|ShoeApp\\ShoeApp.csproj|c:\\users\\mybook hype\\source\\repos\\shoeapp\\shoeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2653FD4B-4964-421C-BFBC-DDC4C5258E8B}|ShoeApp\\ShoeApp.csproj|solutionrelative:shoeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2653FD4B-4964-421C-BFBC-DDC4C5258E8B}|ShoeApp\\ShoeApp.csproj|c:\\users\\mybook hype\\source\\repos\\shoeapp\\shoeapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2653FD4B-4964-421C-BFBC-DDC4C5258E8B}|ShoeApp\\ShoeApp.csproj|solutionrelative:shoeapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2653FD4B-4964-421C-BFBC-DDC4C5258E8B}|ShoeApp\\ShoeApp.csproj|c:\\users\\mybook hype\\source\\repos\\shoeapp\\shoeapp\\shoeapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2653FD4B-4964-421C-BFBC-DDC4C5258E8B}|ShoeApp\\ShoeApp.csproj|solutionrelative:shoeapp\\shoeapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2653FD4B-4964-421C-BFBC-DDC4C5258E8B}|ShoeApp\\ShoeApp.csproj|c:\\users\\mybook hype\\source\\repos\\shoeapp\\shoeapp\\controllers\\shoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2653FD4B-4964-421C-BFBC-DDC4C5258E8B}|ShoeApp\\ShoeApp.csproj|solutionrelative:shoeapp\\controllers\\shoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2653FD4B-4964-421C-BFBC-DDC4C5258E8B}|ShoeApp\\ShoeApp.csproj|c:\\users\\mybook hype\\source\\repos\\shoeapp\\shoeapp\\models\\shoe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2653FD4B-4964-421C-BFBC-DDC4C5258E8B}|ShoeApp\\ShoeApp.csproj|solutionrelative:shoeapp\\models\\shoe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2653FD4B-4964-421C-BFBC-DDC4C5258E8B}|ShoeApp\\ShoeApp.csproj|c:\\users\\mybook hype\\source\\repos\\shoeapp\\shoeapp\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2653FD4B-4964-421C-BFBC-DDC4C5258E8B}|ShoeApp\\ShoeApp.csproj|solutionrelative:shoeapp\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2653FD4B-4964-421C-BFBC-DDC4C5258E8B}|ShoeApp\\ShoeApp.csproj|c:\\users\\mybook hype\\source\\repos\\shoeapp\\shoeapp\\views\\shoes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2653FD4B-4964-421C-BFBC-DDC4C5258E8B}|ShoeApp\\ShoeApp.csproj|solutionrelative:shoeapp\\views\\shoes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MyBook Hype\\source\\repos\\ShoeApp\\ShoeApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ShoeApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MyBook Hype\\source\\repos\\ShoeApp\\ShoeApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ShoeApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T17:25:37.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\MyBook Hype\\source\\repos\\ShoeApp\\ShoeApp\\appsettings.json",
+              "RelativeDocumentMoniker": "ShoeApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\MyBook Hype\\source\\repos\\ShoeApp\\ShoeApp\\appsettings.json",
+              "RelativeToolTip": "ShoeApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-26T16:53:38.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\MyBook Hype\\source\\repos\\ShoeApp\\ShoeApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ShoeApp\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\MyBook Hype\\source\\repos\\ShoeApp\\ShoeApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ShoeApp\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABQAAAAAAAAAAADwvxsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-26T16:58:42.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ShoeApp.csproj",
+              "DocumentMoniker": "C:\\Users\\MyBook Hype\\source\\repos\\ShoeApp\\ShoeApp\\ShoeApp.csproj",
+              "RelativeDocumentMoniker": "ShoeApp\\ShoeApp.csproj",
+              "ToolTip": "C:\\Users\\MyBook Hype\\source\\repos\\ShoeApp\\ShoeApp\\ShoeApp.csproj",
+              "RelativeToolTip": "ShoeApp\\ShoeApp.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-26T15:27:32.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\MyBook Hype\\source\\repos\\ShoeApp\\ShoeApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ShoeApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\MyBook Hype\\source\\repos\\ShoeApp\\ShoeApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ShoeApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAIwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T15:35:19.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MyBook Hype\\source\\repos\\ShoeApp\\ShoeApp\\Views\\Shoes\\index.cshtml",
+              "RelativeDocumentMoniker": "ShoeApp\\Views\\Shoes\\index.cshtml",
+              "ToolTip": "C:\\Users\\MyBook Hype\\source\\repos\\ShoeApp\\ShoeApp\\Views\\Shoes\\index.cshtml",
+              "RelativeToolTip": "ShoeApp\\Views\\Shoes\\index.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T14:56:27.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\MyBook Hype\\source\\repos\\ShoeApp\\ShoeApp\\Views\\Shoes\\Create.cshtml",
+              "RelativeDocumentMoniker": "ShoeApp\\Views\\Shoes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\MyBook Hype\\source\\repos\\ShoeApp\\ShoeApp\\Views\\Shoes\\Create.cshtml",
+              "RelativeToolTip": "ShoeApp\\Views\\Shoes\\Create.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAIwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T14:58:17.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\MyBook Hype\\source\\repos\\ShoeApp\\ShoeApp\\Views\\Shoes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ShoeApp\\Views\\Shoes\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\MyBook Hype\\source\\repos\\ShoeApp\\ShoeApp\\Views\\Shoes\\Edit.cshtml",
+              "RelativeToolTip": "ShoeApp\\Views\\Shoes\\Edit.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T14:59:04.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MyBook Hype\\source\\repos\\ShoeApp\\ShoeApp\\Program.cs",
+              "RelativeDocumentMoniker": "ShoeApp\\Program.cs",
+              "ToolTip": "C:\\Users\\MyBook Hype\\source\\repos\\ShoeApp\\ShoeApp\\Program.cs",
+              "RelativeToolTip": "ShoeApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T14:34:12.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ShoesController.cs",
+              "DocumentMoniker": "C:\\Users\\MyBook Hype\\source\\repos\\ShoeApp\\ShoeApp\\Controllers\\ShoesController.cs",
+              "RelativeDocumentMoniker": "ShoeApp\\Controllers\\ShoesController.cs",
+              "ToolTip": "C:\\Users\\MyBook Hype\\source\\repos\\ShoeApp\\ShoeApp\\Controllers\\ShoesController.cs",
+              "RelativeToolTip": "ShoeApp\\Controllers\\ShoesController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAswGsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T14:29:01.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\MyBook Hype\\source\\repos\\ShoeApp\\ShoeApp\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ShoeApp\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\MyBook Hype\\source\\repos\\ShoeApp\\ShoeApp\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "ShoeApp\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T14:36:21.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\MyBook Hype\\source\\repos\\ShoeApp\\ShoeApp\\Views\\Shoes\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ShoeApp\\Views\\Shoes\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\MyBook Hype\\source\\repos\\ShoeApp\\ShoeApp\\Views\\Shoes\\Delete.cshtml",
+              "RelativeToolTip": "ShoeApp\\Views\\Shoes\\Delete.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T14:59:33.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Shoe.cs",
+              "DocumentMoniker": "C:\\Users\\MyBook Hype\\source\\repos\\ShoeApp\\ShoeApp\\Models\\Shoe.cs",
+              "RelativeDocumentMoniker": "ShoeApp\\Models\\Shoe.cs",
+              "ToolTip": "C:\\Users\\MyBook Hype\\source\\repos\\ShoeApp\\ShoeApp\\Models\\Shoe.cs",
+              "RelativeToolTip": "ShoeApp\\Models\\Shoe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T14:30:58.494Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
